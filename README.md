@@ -29,6 +29,7 @@ A `requirements.txt` file is included, listing all necessary Python packages.  C
 
     *   Use the scripts in the `/src` directory to perform specific tasks like data preprocessing, model training, and evaluation.
     *   Example: `python src/binary_classification_nlp`
+    *   In the same way, the scripts of this code can be used from its “main.py” file.
 
 ## Data
 
