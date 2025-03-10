@@ -27,8 +27,8 @@ A `requirements.txt` file is included, listing all necessary Python packages.  C
 
 4.  **Run the scripts:**
 
-    *   Use the scripts in the `scripts/` directory to perform specific tasks like data preprocessing, model training, and evaluation.
-    *   Example: `python scripts/train_model.py`
+    *   Use the scripts in the `/src` directory to perform specific tasks like data preprocessing, model training, and evaluation.
+    *   Example: `python src/binary_classification_nlp`
 
 ## Data
 
@@ -36,7 +36,7 @@ The data used for this project should be placed in the `data/` directory. Ensure
 
 ## Model Training
 
-The model training scripts are located in the `scripts/` directory. These scripts typically perform the following steps:
+The model training scripts are located in the `src/` directory. These scripts typically perform the following steps:
 
 1.  Load and preprocess the data.
 2.  Split the data into training and testing sets.
